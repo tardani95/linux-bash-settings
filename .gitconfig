@@ -1,0 +1,10 @@
+[user]
+	name = Daniel Tar
+	email = tardani95@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = gedit -w
+	autocrlf = input
+[credential]
+	helper = cache --timeout=7200
